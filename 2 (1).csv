@@ -1,0 +1,15 @@
+journey,utterance,policy_type
+policy-status,How to check policy status,fetch-general-details
+policy-status,Where to check my premium/policy/insurance status,fetch-general-details
+policy-status,Where to check my premium status,fetch-general-details
+policy-status,Where to check my policy status,fetch-general-details
+policy-status,Where to check my insurance status,fetch-general-details
+policy-status,Is my premium/policy/insurance still active,fetch-general-details
+policy-status,How much is my next premium/payment,fetch-general-details
+policy-status,How much is my next premium,fetch-general-details
+policy-status,How much is my next payment,fetch-general-details
+policy-status,When is my premium/policy/insurance due date,fetch-general-details
+policy-status,When is my premium due date,fetch-general-details
+policy-status,When is my policy due date,fetch-general-details
+policy-status,When is my insurance due date,fetch-general-details
+policy-status,What is my latest date I pay my premium/policy/insurance,fetch-general-details
